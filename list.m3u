@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXTINF:-1 group-title="Развлекательные" tvg-id="201.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/201.png" tvg-name="Fine Living",Fine Living
+#EXTGRP:Развлекательные
+http://109.74.210.196:34040/udp/233.12.144.243:5050
